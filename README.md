@@ -12,10 +12,7 @@
 - ⚡ Fun fact: ...
 
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu54&layout=compact" alt="himanshugusain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu54&show_icons=true" alt="himanshugusain" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshu54&show_icons=true" alt="himanshugusain" /></p>
